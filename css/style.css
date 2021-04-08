@@ -3,7 +3,7 @@ html { font-family: 'Inter', sans-serif; }
 @supports (font-variation-settings: normal) {
   html { font-family: 'Inter var', sans-serif; }
 }
-p {
+body {
 	font-family: 'Inter', sans-serif;
 	font-size: 100 px;
 	font-weight: 500;
