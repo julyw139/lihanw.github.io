@@ -8,13 +8,3 @@ body {
 	font-size: 100 px;
 	font-weight: 500;
 }
-
-#left {
-  float: left;
-  width: 65%;
-  overflow: hidden;
-}
-
-#right {
-  overflow: hidden;
-}
